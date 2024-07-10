@@ -7,6 +7,7 @@
 
 ![luiz2024 GitHub stats](https://github-readme-stats.vercel.app/api?username=devluiz&show_icons=true&theme=dracula)
 
+
 ## Tecnologia que eu uso no meu dia 
 
 <div style="display: inline_block"><br/>
