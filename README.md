@@ -5,7 +5,7 @@
 ![Telegram](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
-![luiz2024 GitHub stats](https://github-readme-stats.vercel.app/api?username=devluiz&show_icons=true&theme=dracula)
+![luiz2024 GitHub stats](https://github-readme-stats.vercel.app/api?username=devluiz2024&show_icons=true&theme=radical)
 
 
 ## Tecnologia que eu uso no meu dia 
